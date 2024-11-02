@@ -27,6 +27,6 @@ Sutton, R. S., & Barto, A. G. (2015). Reinforcement learning: An introduction (2
 Tan, P.-N., Steinbach, M., & Kumar, V. (2018). Introduction to data mining (2nd ed.). Pearson. [[pdf]](https://www.ceom.ou.edu/media/docs/upload/Pang-Ning_Tan_Michael_Steinbach_Vipin_Kumar_-_Introduction_to_Data_Mining-Pe_NRDK4fi.pdf)
 
 ___
-If you find errata in this list or would like to contribute, please feel free to make pull requests or issues. 
+If you find errata in this list, please feel free to make pull requests or issues. 
 
 Credit to the authors.
