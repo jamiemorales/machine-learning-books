@@ -4,13 +4,13 @@ ___
 
 Barber, D. (2012) Bayesian Reasoning and Machine Learning [[pdf]](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
 
-Bishop, C. M. (2006). Pattern recognition and machine learning. Springer. [[Website]](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+Bishop, C. M. (2006). Pattern recognition and machine learning. Springer. [[website]](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 
 Deisenroth, M. P., Faisal, A. A., & Ong, C. S. (2020). Mathematics for machine learning. Cambridge University Press. [[pdf]](https://course.ccs.neu.edu/ds4420sp20/readings/mml-book.pdf)
 
 Géron, A. (2019). Hands-on machine learning with scikit-learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (2nd ed.). O'Reilly Media. [[pdf]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
-Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press. [[pdf]](https://www.deeplearningbook.org/)
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press. [[website]](https://www.deeplearningbook.org/)
 
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: Data mining, inference, and prediction (2nd ed.). Springer. [[pdf]](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
 
